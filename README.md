@@ -44,5 +44,5 @@ The dataset (`msleep.csv`) includes the following columns:
 - A clustered heatmap (`clustermap`) is generated to show clusters of animals with similar sleep and weight patterns.
   
 The cluster map provides insights into animal groups based on their sleep duration, brain weight, and body weight. Species with similar patterns are clustered together, which may offer insights into their behavioral and physiological traits.
-
+### Cluster Map
 ![Cluster Map](ClusterMap.png)
